@@ -17,7 +17,7 @@ Run the following command in  terminal or notebook environment:
 
 
 ```
-bash pip install -r requirements.txt 
+pip install -r requirements.txt 
 ``` 
 
 
