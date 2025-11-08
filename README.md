@@ -10,6 +10,32 @@ Instruction Following
 Customizable
 Open-Source
 
+
+⚙️ Installation
+
+To install all required packages, use the requirements.txt file.
+Run the following command in your terminal or notebook environment:
+
+pip install -r requirements.txt
+
+
+All dependencies will be installed automatically.
+
+If you face any version or package errors, try upgrading:
+
+pip install --upgrade transformers torch
+
+
+
+
+
+
+
+
+
+
+
+
 # to install packages use requirements.txt file
 simply run this code :
 
