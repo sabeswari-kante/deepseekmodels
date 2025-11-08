@@ -16,7 +16,9 @@ Open-Source
 Run the following command in  terminal or notebook environment:
 
 
-``` pip install -r requirements.txt   ```
+```
+bash pip install -r requirements.txt 
+``` 
 
 
 
