@@ -23,7 +23,13 @@ All dependencies will be installed.
 
 # Files
 
-<pre> ``` DeepSeekV2-ChatLite/ │ ├── deepseekv2_chat_lite.ipynb ├── requirements.txt └── README.md ``` </pre>
+```
+DeepSeekV2-ChatLite/
+│
+├── deepseekv2_chat_lite.ipynb   # Main Jupyter Notebook
+├── requirements.txt              # List of required Python packages
+└── README.md                     # Project documentation
+```
 
 
 
