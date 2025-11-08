@@ -10,3 +10,24 @@ Instruction Following
 Customizable
 Open-Source
 
+# to install packages use requirements.txt file
+simply run this code :
+
+pip install -r requirements.txt
+
+All the requriment will be installed
+
+
+DeepSeekV2-ChatLite/
+│
+├── deepseekv2_chat_lite.ipynb   # Main Jupyter Notebook
+├── requirements.txt              # List of required Python packages
+└── README.md                     # Project documentation
+
+
+This project was originally developed and tested on Kaggle.
+
+You can modify or expand the notebook for fine-tuning or domain-specific chat tasks.
+
+If any package errors occur, run:
+pip install --upgrade transformers torch
