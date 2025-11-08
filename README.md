@@ -15,7 +15,7 @@ Open-Source
 ## To install all required packages, use the requirements.txt file.
 Run the following command in  terminal or notebook environment:
 
-<pre> pip install -r requirements.txt  </pre>
+``` pip install -r requirements.txt   ```
 
 
 All dependencies will be installed.
@@ -26,7 +26,7 @@ All dependencies will be installed.
 ```
 DeepSeekV2-ChatLite/
 │
-├── deepseekv2_chat_lite.ipynb   # Main Jupyter Notebook
+├── deepseekv2-lite-chat-llm.ipynb   # Main Jupyter Notebook
 ├── requirements.txt              # List of required Python packages
 └── README.md                     # Project documentation
 ```
