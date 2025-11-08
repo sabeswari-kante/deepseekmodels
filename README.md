@@ -23,7 +23,7 @@ All dependencies will be installed.
 
 # Files
 
-<pre> DeepSeekV2-ChatLite/ │ ├── deepseekv2_chat_lite.ipynb ├── requirements.txt └── README.md  </pre>
+<pre> ``` DeepSeekV2-ChatLite/ │ ├── deepseekv2_chat_lite.ipynb ├── requirements.txt └── README.md ``` </pre>
 
 
 
