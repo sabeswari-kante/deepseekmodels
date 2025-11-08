@@ -43,4 +43,6 @@ This project was originally developed and tested on Kaggle.
 You can modify or expand the notebook for fine-tuning or domain-specific chat tasks.
 
 If any package errors occur, run:
-<pre>  pip install --upgrade transformers torch  </pre> 
+```
+pip install --upgrade transformers torch  
+```
