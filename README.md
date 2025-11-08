@@ -23,7 +23,7 @@ All dependencies will be installed.
 
 # Files
 
-<pre> ``` DeepSeekV2-ChatLite/ │ ├── deepseekv2_chat_lite.ipynb ├── requirements.txt └── README.md ``` </pre>
+<pre> DeepSeekV2-ChatLite/ │ ├── deepseekv2_chat_lite.ipynb ├── requirements.txt └── README.md  </pre>
 
 
 
@@ -33,4 +33,4 @@ This project was originally developed and tested on Kaggle.
 You can modify or expand the notebook for fine-tuning or domain-specific chat tasks.
 
 If any package errors occur, run:
-<pre> ``` pip install --upgrade transformers torch ``` </pre> 
+<pre>  pip install --upgrade transformers torch  </pre> 
