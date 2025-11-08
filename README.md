@@ -15,7 +15,7 @@ Open-Source
 ## To install all required packages, use the requirements.txt file.
 Run the following command in  terminal or notebook environment:
 
-<pre> ``` pip install -r requirements.txt ``` </pre>
+<pre> pip install -r requirements.txt  </pre>
 
 
 All dependencies will be installed.
